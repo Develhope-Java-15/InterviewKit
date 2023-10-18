@@ -1,5 +1,12 @@
 # Interview Kit
 
+## 18/10/2023
+### Interview #1
+- Qual è la definizione di classe astratta?
+- Qual è la definizione di interfaccia in OOP?
+- Quali sono le differenze fra una variabile di tipo "char[]" ed una di tipo "String"?
+- Scrivere un metodo che prende in input due array di char A e B e ritorni un array di char C contenenti i caratteri di B invertiti di ordine seguiti dai caratteri in A nello stesso ordine in cui si trovano. Esempio: A = [c, d, e], B = [f, c, b], C = [b, c, f, c, d, e]
+
 ## 13/10/2023
 ### Interview #1
 - Cos'è un'interfaccia nel contesto dell'OOP?
