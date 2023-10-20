@@ -1,5 +1,23 @@
 # Interview Kit
 
+## 20/10/2023
+### Interview #1
+- Qual è la differenza fra short e int in Java? Quali sono i range di valori rappresentabili con questi tipi di dato?
+- In un'istruzione della forma *String str = obj.name;*, *name* cosa può rappresentare all'interno dell'oggeto *obj*?
+- Scrivere una query in SQL che sulla seguente tabella:
+  Student(
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Ritorni tutti gli studenti iscritti al corso "SQL 10" che non hanno svolto alcun esercizio.
+- Avendo nello stesso database dell'esercizio precedente la seguente tabella:
+  Marks(
+        student_name VARCHAR,
+        grade INTEGER
+  )
+  Ritornare per ogni corso la media dei voti (I voti sono rappresentati dalla colonna 'grade').
+
 ## 18/10/2023
 ### Interview #1
 - Qual è la definizione di classe astratta?
