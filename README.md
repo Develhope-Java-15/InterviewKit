@@ -1,5 +1,25 @@
 # Interview Kit
 
+## 23/10/2023
+### Interview #1
+- Qual è la definizione di classe astratta?
+- Qual è la differenza fra classe astratta ed interfaccia?
+- Quanti bit vengono utilizzati per rappresentare una variabile di tipo *byte* e qual è il range rappresentabile in questa unità?
+- In un'istruzione del genere: *List<String> names = ...;*, *String* cos'è per quest'oggetto di tipo *List*?
+- Scrivere una query in SQL che nel seguente schema:
+  Student(
+        id INTEGER PRIMARY KEY,
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Marks(
+        student_id INTEGER,
+        grade INTEGER
+  )
+  Ritorni lo studente che ha preso il voto più alto fra quelli registrati.
+- Scrivere un metodo Java che prenda come parametro un array di interi e stampi tutti gli elementi che si trovano ad un indice divisibile per 3.
+
 ## 20/10/2023
 ### Interview #1
 - Qual è la differenza fra short e int in Java? Quali sono i range di valori rappresentabili con questi tipi di dato?
