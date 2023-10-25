@@ -1,5 +1,15 @@
 # Interview Kit
 
+## 25/10/2023
+### Interview #1
+- Cosa cambia fra int, float e double?
+- In un codice del tipo *try { ... } catch(InputError e) { ... }*, InputError eredita da quale classe della libreria standard Java?
+- Scrivere un metodo Java che prenda come parametro un array di double e stampi tutti gli elementi che si trovano ad un indice dispari.
+  
+### Interview #2
+- Qual è la differenza fra classe astratta ed una non-astratta? E fra classe astratta ed interfaccia?
+- Scrivere un metodo Java che prenda come parametro un array di double e stampi tutti gli elementi che si trovano ad un indice dispari se presente nella prima metà dell'array, e quelli presenti ad un indice pari nella seconda metà dell'array.
+
 ## 23/10/2023
 ### Interview #1
 - Qual è la definizione di classe astratta?
