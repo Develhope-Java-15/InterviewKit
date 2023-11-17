@@ -9,6 +9,11 @@
 - Ad un servizio REST facciamo la seguente richiesta: GET /users/10/posts. Descrivere a cosa, intuitivamente, servirà questa richiesta.
 - Scrivere metodo HTTP e URI di una richiesta col seguente scopo: "Inserisci un nuovo evento per l'utente con id 10"
 
+### Interview #2
+- Quali sono le differenze fra int e long in Java?
+- Scrivere un metodo Java che prenda come parametro un array di interi e ritorni la somma di tutti gli elementi che si trovano in un indice i tale che i % 3 == 1
+- All'interno del framework Spring, cos'è un repository ed a cosa serve?
+
 ## 25/10/2023
 ### Interview #1
 - Cosa cambia fra int, float e double?
@@ -18,6 +23,18 @@
 ### Interview #2
 - Qual è la differenza fra classe astratta ed una non-astratta? E fra classe astratta ed interfaccia?
 - Scrivere un metodo Java che prenda come parametro un array di double e stampi tutti gli elementi che si trovano ad un indice dispari se presente nella prima metà dell'array, e quelli presenti ad un indice pari nella seconda metà dell'array.
+- Scrivere una query in SQL che nel seguente schema:
+  Student(
+        id INTEGER PRIMARY KEY,
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Marks(
+        student_id INTEGER,
+        grade INTEGER
+  )
+  Ritorni lo studente che ha preso il voto più basso fra quelli registrati.
 
 ## 23/10/2023
 ### Interview #1
