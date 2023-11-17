@@ -1,5 +1,14 @@
 # Interview Kit
 
+## 17/11/2023
+### Interview #1
+- Cos'è un'interfaccia in Java?
+- Cos'è un metodo astratto in Java?
+- La classe astratta A ha un metodo astratto op(). B eredita da A ed implementa op(). La classe C, che eredita da B, può fare override di op()?
+- Scrivere un metodo Java che prenda come parametro un array di interi e ritorni la somma di tutti gli elementi che si trovano in indici che sono potenze di 2
+- Ad un servizio REST facciamo la seguente richiesta: GET /users/10/posts. Descrivere a cosa, intuitivamente, servirà questa richiesta.
+- Scrivere metodo HTTP e URI di una richiesta col seguente scopo: "Inserisci un nuovo evento per l'utente con id 10"
+
 ## 25/10/2023
 ### Interview #1
 - Cosa cambia fra int, float e double?
