@@ -13,6 +13,36 @@
 - Quali sono le differenze fra int e long in Java?
 - Scrivere un metodo Java che prenda come parametro un array di interi e ritorni la somma di tutti gli elementi che si trovano in un indice i tale che i % 3 == 1
 - All'interno del framework Spring, cos'è un repository ed a cosa serve?
+- Scrivere una query in SQL che nel seguente schema:
+  Student(
+        id INTEGER PRIMARY KEY,
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Marks(
+        student_id INTEGER,
+        grade INTEGER
+  )
+  Ritorni lo studente che ha preso il voto più basso fra quelli registrati.
+
+### Interview #3
+- Cos'è un metodo final in Java?
+- Cos'è una variabile final in Java?
+- A cosa serve la keyword static in Java applicata a variabili e metodi?
+- Scrivere un metodo Java che prenda come parametro due array di interi A e B e ritorni il prodotto di tutti gli elementi negli indici i tali che A[i] == B[i] / 2 e i % 2 == 1.
+- Scrivere una query in SQL che nel seguente schema:
+  Student(
+        id INTEGER PRIMARY KEY,
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Marks(
+        student_id INTEGER,
+        grade INTEGER
+  )
+  Ritorni la lista di corsi ordinati in senso decrescente in base al voto medio degli studenti che ne fanno parte.
 
 ## 25/10/2023
 ### Interview #1
