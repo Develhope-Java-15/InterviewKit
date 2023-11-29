@@ -1,5 +1,10 @@
 # Interview Kit
 
+# 29/11/2023
+### Interview #1
+- Scrivere un metodo Java che prenda come parametro due array di double A e B e ritorni la somma della prima metà degli elementi di A più il prodotto della seconda metà degli elementi di B
+- In un'istruzione della forma *int y = A.count();*, sapendo che A è una classe, cosa si può dire sul metodo *count*?
+
 ## 24/11/2023
 ### Interview #1
 - Scrivere un metodo Java che prenda come parametro un array di interi e ritorni la somma di tutti gli elementi che si trovano in indici che sono potenze di 2
