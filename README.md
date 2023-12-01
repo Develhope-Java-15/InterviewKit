@@ -1,5 +1,21 @@
 # Interview Kit
 
+# 01/12/2023
+### Interview #1
+Nel seguente schema:
+  Student(
+        id INTEGER PRIMARY KEY,
+        name VARCHAR,
+        course_id VARCHAR,
+        exercises INTEGER
+  )
+  Marks(
+        student_id INTEGER,
+        grade INTEGER
+  )
+Scrivere le seguenti query:
+- Ritorna il nome dello studente che ha preso il voto più alto fra quelli registrati.
+
 # 29/11/2023
 ### Interview #1
 - Scrivere un metodo Java che prenda come parametro due array di double A e B e ritorni la somma della prima metà degli elementi di A più il prodotto della seconda metà degli elementi di B
