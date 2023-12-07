@@ -1,7 +1,7 @@
 # Interview Kit
 
 
-# 01/12/2023
+# 07/12/2023
 ### Interview #1
 Nello schema precedente (01/12/2023) scrivere le seguenti query:
 - Ritorna per ogni studente il nome e la media dei voti moltiplicata per il numero di esercizi consegnato.
