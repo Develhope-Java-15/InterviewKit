@@ -1,5 +1,13 @@
 # Interview Kit
 
+
+# 01/12/2023
+### Interview #1
+Nello schema precedente (01/12/2023) scrivere le seguenti query:
+- Ritorna per ogni studente il nome e la media dei voti moltiplicata per il numero di esercizi consegnato.
+- Ritorna per ogni corso la media dei voti.
+- Ritorna per ogni corso il numero di studenti che lo seguono.
+
 # 01/12/2023
 ### Interview #1
 Nel seguente schema:
