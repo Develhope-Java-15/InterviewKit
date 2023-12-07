@@ -8,6 +8,9 @@ Nello schema precedente (01/12/2023) scrivere le seguenti query:
 - Ritorna per ogni corso la media dei voti.
 - Ritorna per ogni corso il numero di studenti che lo seguono.
 
+### Interview #2
+- Scrivere un metodo in Java che prenda in input un array di interi e ritorni la somma degli elementi divisibili per 3. Sviluppare una versione iterativa usando un classico ciclo for, una versione che utilizza gli Stream di Java ed una versione ricorsiva che oltre all'array di interi prende come parametro la somma corrente e l'indice da cui bisogna leggere l'array.
+
 # 01/12/2023
 ### Interview #1
 Nel seguente schema:
