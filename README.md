@@ -4,7 +4,12 @@
 ### Interview #1
 - Scrivere un metodo in Java che prende come parametro un HashMap<String, String> e ritorni una List<String> contenente la concatenazione di ogni coppia chiave-valore nell'HashMap.
 - Scrivere un metodo in Java che prende come parametro una List<String> _strings_ ed una List<Integer> _integers_ e ritorni _true_ se almeno metà degli elementi di _strings_ sono convertibili ad intero (TIP: usare _Integer.parseInt_) e corrispondano, da convertiti, ad un elemento in _integers_, altrimenti ritorna _false_.
-  
+
+### Interview #2
+- Scrivere entrambi i metodi precedenti sfruttando lo stream programming
+- Scrivere un metodo in Java che prende come parametro un HashMap<String, String> e ritorni una lista di interi che contiene la somma della lunghezza dei caratteri di ogni coppia chiave-valore dell'HashMap.
+- Estendere questo metodo ritornando _true_ se più della metà delle lunghezza è strettamente maggiore di un parametro _k_ passato al metodo.
+    
 # 07/12/2023
 ### Interview #1
 Nello schema precedente (01/12/2023) scrivere le seguenti query:
