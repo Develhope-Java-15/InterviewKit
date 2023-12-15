@@ -15,6 +15,11 @@
 - Com'è strutturata una lista concatenata (LinkedList)?
 - Scrivere un metodo che prende due array di interi della stessa dimensione N e ritorna un array di float lungo N che all'i-esimo indice contiene la media degli i-esimi elementi dei due array.
 
+### Interview #3
+- Cos'è una classe astratta in Java? Quali sono i suoi casi d'uso?
+- Cosa dice la regole IS-A?
+- Scrivere un metodo che prende in input un array di float e ritorni un array di interi contenente la potenza di 2 degli elementi negli indici che sono potenze di 2 e -1 in tutti gli altri indici.
+
 # 13/12/2023
 ### Interview #1
 - Scrivere un metodo in Java che prende come parametro un HashMap<String, String> e ritorni una List<String> contenente la concatenazione di ogni coppia chiave-valore nell'HashMap.
