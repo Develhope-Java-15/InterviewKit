@@ -20,6 +20,12 @@
 - Cosa dice la regole IS-A?
 - Scrivere un metodo che prende in input un array di float e ritorni un array di interi contenente la potenza di 2 degli elementi negli indici che sono potenze di 2 e -1 in tutti gli altri indici.
 
+### Interview #4
+- Cos'è un array?
+- Qual è il ruolo di Service, Repository e Controller in Spring? Un metodo che legge delle righe da un database in quale di questi 3 elementi dovrebbe stare?
+- Cosa si può dire se una risposta HTTP ha status code 401, assumendo che si seguano le convenzioni?
+- Scrivere un metodo che prenda come parametro una List<Integer> e ritorni la somma degli elementi presenti in indici che sono potenze di 2.
+
 # 13/12/2023
 ### Interview #1
 - Scrivere un metodo in Java che prende come parametro un HashMap<String, String> e ritorni una List<String> contenente la concatenazione di ogni coppia chiave-valore nell'HashMap.
