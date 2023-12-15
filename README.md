@@ -1,5 +1,15 @@
 # Interview Kit
 
+# 15/12/2023
+### Interview #1
+- Quali sono le differenze fra classe astratta ed interfaccia in Java?
+- In un'istruzione della forma *float z = Z.attempt();*, sapendo che Z è una classe, cosa si può dire sul metodo *attempt*?
+- Cos'è un design pattern?
+- Qual è la differenza fra override e overload?
+- Spiegare perchè un overload della seguente forma sia permesso o meno in Java e motivare la risposta:
+    - float method1(int)
+    - int method1(int)
+
 # 13/12/2023
 ### Interview #1
 - Scrivere un metodo in Java che prende come parametro un HashMap<String, String> e ritorni una List<String> contenente la concatenazione di ogni coppia chiave-valore nell'HashMap.
