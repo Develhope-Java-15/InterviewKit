@@ -9,6 +9,11 @@
 - Spiegare perchè un overload della seguente forma sia permesso o meno in Java e motivare la risposta:
     - float method1(int)
     - int method1(int)
+ 
+### Interview #2
+- Cos'è un'interfaccia in Java?
+- Com'è strutturata una lista concatenata (LinkedList)?
+- Scrivere un metodo che prende due array di interi della stessa dimensione N e ritorna un array di float lungo N che all'i-esimo indice contiene la media degli i-esimi elementi dei due array.
 
 # 13/12/2023
 ### Interview #1
