@@ -1,5 +1,11 @@
 # Interview Kit
 
+# 18/12/2023
+- Scrivere un metodo che prende in input un array di String e ritorni un array di interi contenente all'i-esima posizione la lunghezza dell'i-esima stringa dell'array.
+- Scrivere un metodo che prende in input una lista di interi e ritorni un lista contenente la potenza alla terza di ogni elemento.
+- Scrivere un metodo che prende in input una lista di interi ed un parametro k e ritorni un lista contenente la potenza alla seconda di ogni elemento se è divisibile per k.
+- Scrivere un metodo che prende in input una lista di interi ed un parametro m e ritorniamo una lista contenente ogni valore della lista in input moltiplicato per m solo se maggiore di zero.
+
 # 15/12/2023
 ### Interview #1
 - Quali sono le differenze fra classe astratta ed interfaccia in Java?
