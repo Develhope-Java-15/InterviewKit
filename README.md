@@ -1,5 +1,15 @@
 # Interview Kit
 
+# 20/12/2023
+Implementare un servizio Spring con le seguenti caratteristiche:
+    - Un'entità Student con un id, un nome ed un cognome
+    - Un'entità Tutor con un id, un nome ed un cognome
+    - Un'entità Course con un id ed un nome
+    - Ogni studente può essere iscritto ad un solo corso, ma potrebbe anche non essere iscritto a nessuno. Un tutor può essere assegnato a zero o più corsi.
+    - Vengono forniti degli endpoint per ogni entità per l'inserimento di valori nel database e la lettura di tutti i dati inseriti
+    - Viene fornito un endpoint per la lettura di tutti gli studenti non iscritti a nessun corso
+    - Viene fornito un endpoint per ritornare la lista di studenti iscritti ad un corso con un determinato ID
+    
 # 18/12/2023
 - Scrivere un metodo che prende in input un array di String e ritorni un array di interi contenente all'i-esima posizione la lunghezza dell'i-esima stringa dell'array.
 - Scrivere un metodo che prende in input una lista di interi e ritorni un lista contenente la potenza alla terza di ogni elemento.
